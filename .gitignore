@@ -1,4 +1,4 @@
 # credentials 
 auth.py
 # virtual environment
-venv
+.venv
