@@ -1,3 +1,6 @@
+import tweepy
+import datetime
+
 from auth import auth
 
 class TweetMiner(object):
