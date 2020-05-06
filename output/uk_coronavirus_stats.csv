@@ -1,21 +1,153 @@
-screen_name,date,test_cum,test_daily,ppl_test_cum,ppl_confirmed_cum,death_cum,ppl_tested_daily,death_daily,ppl_confirmed_daily,ppl_percentage_daily,death_rate,ppl_confirmed_change,death_change,ppl_tested_change
-DHSCgovuk,2020-04-25,640792,28760,517836,148377,20319,73614,813,4913,0.06674002227837096,0.13694170929456723,-0.08782027478648347,0.05859375,3.0005434487256126
-DHSCgovuk,2020-04-24,612031,28532,444222,143464,19506,18401,768,5386,0.2927014836150209,0.13596442313054147,0.17521274274492682,0.20376175548589348,0.2578440084763143
-DHSCgovuk,2020-04-23,583496,23560,425821,138078,18738,14629,638,4583,0.31328183744616855,0.13570590535784122,0.02965625702089425,-0.163826998689384,0.08186658778287237
-DHSCgovuk,2020-04-22,559935,22814,411192,133495,18100,13522,763,4451,0.3291672829463097,0.13558560245702087,0.03487561032318065,-0.07850241545893721,0.16308274557027347
-DHSCgovuk,2020-04-21,535342,18206,397670,129044,17337,11626,828,4301,0.36994667125408565,0.1343495241932984,-0.08019674935842602,0.8440979955456571,-0.11095817083428916
-DHSCgovuk,2020-04-20,501379,19316,386044,124743,16509,13077,449,4676,0.35757436720960467,0.13234409946850725,-0.2006837606837607,-0.24664429530201337,-0.17981685900652278
-DHSCgovuk,2020-04-19,482063,21626,372967,120067,16060,15944,596,5850,0.3669091821374812,0.13375865141962404,0.05882352941176472,-0.3288288288288288,0.030506721820062088
-DHSCgovuk,2020-04-18,460437,21389,357023,114217,15464,15472,888,5525,0.35709669079627715,0.13539140408170414,-0.013216645829612461,0.04840613931523019,0.10966076167252381
-DHSCgovuk,2020-04-17,438991,21328,341551,108692,14576,13943,847,5599,0.4015635085706089,0.13410370588451773,0.21269222438813085,-0.016260162601625994,0.007514993857937746
-DHSCgovuk,2020-04-16,417649,18665,327608,103093,13729,13839,861,4617,0.3336223715586386,0.1331710203408573,0.0030414946773842377,0.13140604467805517,0.23894359892569383
-DHSCgovuk,2020-04-15,398916,15994,313769,98476,12868,11170,761,4603,0.41208594449418084,0.13067143263333197,-0.12357197258187358,-0.02185089974293064,-0.05968515868339086
-DHSCgovuk,2020-04-14,382650,14982,302599,93873,12107,11879,778,5252,0.4421247579762606,0.12897212190938823,0.20958083832335328,0.0850767085076709,0.4233165588305776
-DHSCgovuk,2020-04-13,367667,14506,290720,88621,11329,8346,717,4342,0.5202492211838006,0.127836517304025,-0.17889561270801813,-0.027137042062415184,-0.34674389480275514
-DHSCgovuk,2020-04-12,352974,18000,282374,84279,10612,12776,737,5288,0.4139010644959299,0.12591511527189453,0.01051022358111986,-0.19629225736095968,-0.01670130070037712
-DHSCgovuk,2020-04-11,334974,18091,269598,78991,9875,12993,917,5233,0.40275532979296547,0.12501424212885012,-0.3971892639096878,-0.06428571428571428,-0.014487257281553423
-DHSCgovuk,2020-04-10,316836,19116,256605,73758,8958,13184,980,8681,0.6584496359223301,0.12145123240868787,0.9983885819521179,0.11237230419977307,0.23065434518808914
-DHSCgovuk,2020-04-09,298169,16095,243421,65077,7978,10713,881,4344,0.40548865863903666,0.12259323570539515,-0.20888727007830998,-0.06076759061833692,-0.4513750192041789
-DHSCgovuk,2020-04-08,282074,14682,232708,60733,7097,19527,938,5491,0.2812003892046909,0.11685574564075543,0.5110071546505228,0.19338422391857502,3.4951657458563536
-DHSCgovuk,2020-04-07,266694,14006,213181,55242,6159,4344,786,3634,0.8365561694290976,0.11149125665254697,inf,inf,inf
-DHSCgovuk,2020-04-06,252958,13069,208837,51608,5373,0,0,0,,0.10411176561773368,,,
+screen_name,text,date,time,test_daily,url,ppl_tested_daily,death_daily,ppl_confirmed_daily,ppl_percentage_daily,ppl_confirmed_case_change,ppl_death_change_number,ppl_confirmed_change,death_change,ppl_tested_change,ppl_confirmed_rate
+DHSCgovuk,"As of 9am 5 May there have been 1383842 tests with 84806 tests on 4 May. 
+
+1015138 people have been tested of which 194990 tested positive. 
+
+As of 5pm on 4 May of those tested positive for coronavirus across all settings 29427 have sadly died. https://t.co/OBSEhBX5sG",2020-05-05,19:10:03,84806,https://t.co/OBSEhBX5sG,69839,693,4406,0.0630879594495912,421,405,0.10564617314930991,1.40625,0.1093303259419276,0.0630879594495912
+DHSCgovuk,"As of 9am 4 May there have been 1291591 tests with 85186 tests on 3 May. 
+
+945299 people have been tested of which 190584 tested positive. 
+
+As of 5pm on 3 May of those tested positive for coronavirus across all settings 28734 have sadly died. https://t.co/5KhmQy9k9W",2020-05-04,17:29:53,85186,https://t.co/5KhmQy9k9W,62956,288,3985,0.06329817650422517,-354,-27,-0.08158561880617654,-0.08571428571428574,0.11630051243860495,0.06329817650422517
+DHSCgovuk,"As of 9am 3 May there have been 1206405 tests with 76496 tests on 02 May. 
+
+882343 people have been tested of which 186599 tested positive. 
+
+As of 5pm on 02 May of those tested positive for coronavirus across all settings 28446 have sadly died. https://t.co/801yyNWcr3",2020-05-03,17:20:49,76496,https://t.co/801yyNWcr3,56397,315,4339,0.07693671649201199,-467,-306,-0.097170203911777,-0.49275362318840576,-0.11418788383306888,0.07693671649201199
+DHSCgovuk,"As of 9am 2 May there have been 1129907 tests with 105937 tests on 1 May. 
+
+825946 people have been tested of which 182260 tested positive. 
+
+As of 5pm on 1 May of those tested positive for coronavirus across all settings 28131 have sadly died. https://t.co/Feh845Dm5M",2020-05-02,16:17:30,105937,https://t.co/Feh845Dm5M,63667,621,4806,0.07548651577740431,-1395,-118,-0.22496371552975325,-0.1596752368064953,-0.15008677079161659,0.07548651577740431
+DHSCgovuk,"As of 9am 1 May there have been 1023824 tests with 122347 tests on 30 April. 
+
+762279 people have been tested of which 177454 tested positive. 
+
+As of 5pm on 30 April of those tested positive for coronavirus across all settings 27510 have sadly died. https://t.co/cbZ2M02TqS",2020-05-01,16:15:02,122347,https://t.co/cbZ2M02TqS,74910,739,6201,0.08277933520224269,169,65,0.028017241379310276,0.09643916913946593,0.37260650480989455,0.08277933520224269
+DHSCgovuk,"As of 9am 30 April there have been 901905 tests with 81611 tests on 29 April. 
+
+687369 people have been tested of which 171253 tested positive. 
+
+As of 5pm on 29 April of those tested positive for coronavirus across all settings 26771 have sadly died. https://t.co/thSbLqfexF",2020-04-30,17:57:49,81611,https://t.co/thSbLqfexF,54575,674,6032,0.11052679798442511,1956,-3745,0.4798822374877332,-0.8474768047069473,0.6312957704379016,0.11052679798442511
+DHSCgovuk,"As of 9am 29 April there have been 818539 tests with 52429 tests on 28 April. 
+
+632794 people have been tested of which 165221 tested positive. 
+
+As of 5pm on 28 April of those tested positive for coronavirus across all settings 26097 have sadly died. https://t.co/Qw1GB5s3Wc",2020-04-29,17:08:02,52429,https://t.co/Qw1GB5s3Wc,33455,4419,4076,0.12183530115079959,80,3833,0.020020020020020013,6.540955631399317,0.131344898718339,0.12183530115079959
+DHSCgovuk,"As of 9am 28 April there have been 763387 tests with 43563 tests on 27 April. 
+
+599339 people have been tested of which 161145 tested positive. 
+
+As of 5pm on 27 April of those hospitalised in the UK who tested positive for coronavirus 21678 have sadly died. https://t.co/eZ9lecAlpg",2020-04-28,18:50:05,43563,https://t.co/eZ9lecAlpg,29571,586,3996,0.1351323932230902,-313,226,-0.072638663262938,0.6277777777777778,0.12202618099032447,0.1351323932230902
+DHSCgovuk,"As of 9am 27 April there have been 719910 tests with 37024 tests on 26 April. 
+
+569768 people have been tested of which 157149 tested positive. 
+
+As of 5pm on 26 April of those hospitalised in the UK who tested positive for coronavirus 21092 have sadly died. https://t.co/pZ73hu9GFJ",2020-04-27,18:07:03,37024,https://t.co/pZ73hu9GFJ,26355,360,4309,0.16349838740276987,-154,-53,-0.0345059377100605,-0.12832929782082325,0.03041795363021471,0.16349838740276987
+DHSCgovuk,"As of 9am 26 April 669850 tests have concluded with 29058 tests on 25 April. 
+
+543413 people have been tested of which 152840 tested positive. 
+
+As of 5pm on 25 April of those hospitalised in the UK who tested positive for coronavirus 20732 have sadly died. https://t.co/3itql8uBPb",2020-04-26,15:57:48,29058,https://t.co/3itql8uBPb,25577,413,4463,0.17449270829260663,-450,-400,-0.09159373091797274,-0.4920049200492005,-0.6525525035998587,0.17449270829260663
+DHSCgovuk,"As of 9am 25 April 640792 tests have concluded with 28760 tests on 24 April. 
+
+517836 people have been tested of which 148377 tested positive. 
+
+As of 5pm on 24 April of those hospitalised in the UK who tested positive for coronavirus 20319 have sadly died. https://t.co/5HLhOFWdlu",2020-04-25,14:19:34,28760,https://t.co/5HLhOFWdlu,73614,813,4913,0.06674002227837096,-473,45,-0.08782027478648347,0.05859375,3.0005434487256126,0.06674002227837096
+DHSCgovuk,"As of 9am 24 April 612031 tests have concluded with 28532 tests on 23 April. 
+
+444222 people have been tested of which 143464 tested positive. 
+
+As of 5pm on 23 April of those hospitalised in the UK who tested positive for coronavirus 19506 have sadly died. https://t.co/ixQBaugnGh",2020-04-24,14:13:49,28532,https://t.co/ixQBaugnGh,18401,768,5386,0.2927014836150209,803,130,0.17521274274492682,0.20376175548589348,0.2578440084763143,0.2927014836150209
+DHSCgovuk,"As of 9am 23 April 583496 tests have concluded with 23560 tests on 22 April. 
+
+425821 people have been tested of which 138078 tested positive. 
+
+As of 5pm on 22 April of those hospitalised in the UK who tested positive for coronavirus 18738 have sadly died. https://t.co/0quyQMCheo",2020-04-23,13:56:11,23560,https://t.co/0quyQMCheo,14629,638,4583,0.31328183744616855,132,-125,0.02965625702089425,-0.163826998689384,0.08186658778287237,0.31328183744616855
+DHSCgovuk,"As of 9am 22 April 559935 tests have concluded with 22814 tests on 21 April. 
+
+411192 people have been tested of which 133495 tested positive. 
+
+As of 5pm on 21 April of those hospitalised in the UK who tested positive for coronavirus 18100 have sadly died. https://t.co/gFFpwZe1gl",2020-04-22,13:47:57,22814,https://t.co/gFFpwZe1gl,13522,763,4451,0.3291672829463097,150,-65,0.03487561032318065,-0.07850241545893721,0.16308274557027347,0.3291672829463097
+DHSCgovuk,"As of 9am 21 April 535342 tests have concluded with 18206 tests on 20 April. 
+
+397670 people have been tested of which 129044 tested positive. 
+
+As of 5pm on 20 April of those hospitalised in the UK who tested positive for coronavirus 17337 have sadly died. https://t.co/rLnm7MWxEw",2020-04-21,15:08:03,18206,https://t.co/rLnm7MWxEw,11626,828,4301,0.36994667125408565,-375,379,-0.08019674935842602,0.8440979955456571,-0.11095817083428916,0.36994667125408565
+DHSCgovuk,"As of 9am 20 April 501379 tests have concluded with 19316 tests on 19 April. 
+
+386044 people have been tested of which 124743 tested positive. 
+
+As of 5pm on 19 April of those hospitalised in the UK who tested positive for coronavirus 16509 have sadly died. https://t.co/c5suKHMEIS",2020-04-20,15:26:27,19316,https://t.co/c5suKHMEIS,13077,449,4676,0.35757436720960467,-1174,-147,-0.2006837606837607,-0.24664429530201337,-0.17981685900652278,0.35757436720960467
+DHSCgovuk,"As of 9am 19 April 482063 tests have concluded with 21626 tests on 18 April. 
+
+372967 people have been tested of which 120067 tested positive. 
+
+As of 5pm on 18 April of those hospitalised in the UK who tested positive for coronavirus 16060 have sadly died. https://t.co/sO9IRInBsu",2020-04-19,13:14:32,21626,https://t.co/sO9IRInBsu,15944,596,5850,0.3669091821374812,325,-292,0.05882352941176472,-0.3288288288288288,0.030506721820062088,0.3669091821374812
+DHSCgovuk,"As of 9am 18 April 460437 tests have concluded with 21389 tests on 17 April. 
+
+357023 people have been tested of which 114217 tested positive. 
+
+As of 5pm on 17 April of those hospitalised in the UK who tested positive for coronavirus 15464 have sadly died. https://t.co/yZmas1wSvS",2020-04-18,13:04:37,21389,https://t.co/yZmas1wSvS,15472,888,5525,0.35709669079627715,-74,41,-0.013216645829612461,0.04840613931523019,0.10966076167252381,0.35709669079627715
+DHSCgovuk,"As of 9am 17 April 438991 tests have concluded with 21328 tests on 16 April. 
+
+341551 people have been tested of which 108692 tested positive. 
+
+As of 5pm on 16 April of those hospitalised in the UK who tested positive for coronavirus 14576 have sadly died. https://t.co/BkOC0O9EUy",2020-04-17,13:06:33,21328,https://t.co/BkOC0O9EUy,13943,847,5599,0.4015635085706089,982,-14,0.21269222438813085,-0.016260162601625994,0.007514993857937746,0.4015635085706089
+DHSCgovuk,"As of 9am 16 April 417649 tests have concluded with 18665 tests on 15 April. 
+
+327608 people have been tested of which 103093 tested positive. 
+
+As of 5pm on 15 April of those hospitalised in the UK who tested positive for coronavirus 13729 have sadly died. https://t.co/z6FNsommq9",2020-04-16,13:44:13,18665,https://t.co/z6FNsommq9,13839,861,4617,0.3336223715586386,14,100,0.0030414946773842377,0.13140604467805517,0.23894359892569383,0.3336223715586386
+DHSCgovuk,"As of 9am 15 April 398916 tests have concluded with 15994 tests on 14 April. 
+
+313769 people have been tested of which 98476 tested positive. 
+
+As of 5pm on 14 April of those hospitalised in the UK who tested positive for coronavirus 12868 have sadly died. https://t.co/Rm19fv4jv0",2020-04-15,13:31:09,15994,https://t.co/Rm19fv4jv0,11170,761,4603,0.41208594449418084,-649,-17,-0.12357197258187358,-0.02185089974293064,-0.05968515868339086,0.41208594449418084
+DHSCgovuk,"As of 9am 14 April 382650 tests have concluded with 14982 tests on 13 April. 
+
+302599 people have been tested of which 93873 tested positive. 
+
+As of 5pm on 13 April of those hospitalised in the UK who tested positive for coronavirus 12107 have sadly died. https://t.co/xK3AdMiVZC",2020-04-14,13:29:33,14982,https://t.co/xK3AdMiVZC,11879,778,5252,0.4421247579762606,910,61,0.20958083832335328,0.0850767085076709,0.4233165588305776,0.4421247579762606
+DHSCgovuk,"As of 9am 13 April 367667 tests have concluded with 14506 tests on 12 April. 
+
+290720 people have been tested of which 88621 tested positive. 
+
+As of 5pm on 12 April of those hospitalised in the UK who tested positive for coronavirus 11329 have sadly died. https://t.co/AijH4hfOV1",2020-04-13,13:38:36,14506,https://t.co/AijH4hfOV1,8346,717,4342,0.5202492211838006,-946,-20,-0.17889561270801813,-0.027137042062415184,-0.34674389480275514,0.5202492211838006
+DHSCgovuk,"As of 9am 12 April 352974 tests have concluded with 18000 tests on 11 April.
+
+282374 people have been tested of which 84279 tested positive. 
+
+As of 5pm on 11 April of those hospitalised in the UK who tested positive for coronavirus 10612 have sadly died https://t.co/xzxBZDmXnk",2020-04-12,14:36:31,18000,https://t.co/xzxBZDmXnk,12776,737,5288,0.4139010644959299,55,-180,0.01051022358111986,-0.19629225736095968,-0.01670130070037712,0.4139010644959299
+DHSCgovuk,"As of 9am 11 April 334974 tests have concluded with 18091 tests on 10 April. 
+
+269598 people have been tested of which 78991 tested positive. 
+
+As of 5pm on 10 April of those hospitalised in the UK who tested positive for coronavirus 9875 have sadly died. https://t.co/c0Bqs0JeUC",2020-04-11,13:25:04,18091,https://t.co/c0Bqs0JeUC,12993,917,5233,0.40275532979296547,-3448,-63,-0.3971892639096878,-0.06428571428571428,-0.014487257281553423,0.40275532979296547
+DHSCgovuk,"As of 9am 10 April 316836 tests have concluded with 19116 tests on 9 April. 
+
+256605 people have been tested of which 73758 tested positive. 
+
+As of 5pm on 9 April of those hospitalised in the UK who tested positive for coronavirus 8958 have sadly died. https://t.co/m6gDZBMUWb",2020-04-10,17:09:56,19116,https://t.co/m6gDZBMUWb,13184,980,8681,0.6584496359223301,4337,99,0.9983885819521179,0.11237230419977307,0.23065434518808914,0.6584496359223301
+DHSCgovuk,"As of 9am 9 April 298169 tests have concluded with 16095 tests on 8 April. 
+
+243421 people have been tested of which 65077
+tested positive. 
+
+As of 5pm on 8 April of those hospitalised in the UK who
+tested positive for coronavirus 7978 have sadly died. https://t.co/wMfUJKodOL",2020-04-09,18:36:47,16095,https://t.co/wMfUJKodOL,10713,881,4344,0.40548865863903666,-1147,-57,-0.20888727007830998,-0.06076759061833692,-0.4513750192041789,0.40548865863903666
+DHSCgovuk,"As of 9am 8 April 282074 tests have concluded with 14682 tests on 7 April.
+
+232708 people have been tested of which 60733 tested positive.
+
+As of 5pm on 7 April of those hospitalised in the UK who tested positive for coronavirus 7097 have sadly died. https://t.co/bWOBsyrrrs",2020-04-08,15:51:25,14682,https://t.co/bWOBsyrrrs,19527,938,5491,0.2812003892046909,1857,152,0.5110071546505228,0.19338422391857502,3.4951657458563536,0.2812003892046909
+DHSCgovuk,"As of 9am 7 April 266694 tests have concluded with 14006 tests on 6 April.
+ 
+213181 people have been tested of which 55242 tested positive.
+
+As of 5pm on 6 April of those hospitalised in the UK who tested positive for coronavirus 6159 have sadly died. https://t.co/MB1ckbNjm7",2020-04-07,15:18:19,14006,https://t.co/MB1ckbNjm7,4344,786,3634,0.8365561694290976,3634,786,inf,inf,inf,0.8365561694290976
+DHSCgovuk,"As of 9am 6 April 252958 tests have concluded with 13069 tests on 5 April (excl. Northern Ireland).
+ 
+208837 people have been tested of which 51608 tested positive.
+
+As of 5pm on 5 April of those hospitalised in the UK who tested positive for coronavirus 5373 have died. https://t.co/pHxcJHd3pj",2020-04-06,15:31:12,13069,https://t.co/pHxcJHd3pj,0,0,0,,0,0,,,,
