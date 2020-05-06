@@ -2,3 +2,5 @@
 auth.py
 # virtual environment
 venv/
+# jupyter notebook
+*.ipynb
