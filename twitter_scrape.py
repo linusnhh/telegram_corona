@@ -8,10 +8,8 @@ class TweetMiner(object):
     result_limit    =   20    
     data            =   []
     api             =   False
-    
-    twitter_keys = auth #consumer_key, consumer_secret, access_token_key, access_token_secret
 
-    def __init__(self, keys_dict=twitter_keys, api=api, result_limit = 20):
+    def __init__(self, keys_dict=auth, api=api, result_limit = 20):
         
         self.twitter_keys = keys_dict
         
